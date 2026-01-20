@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Alvin 👋
 
-<!--
-**alvinsaju7479/alvinsaju7479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Big Data Management & Analytics (Dublin)  
+💻 Junior Data & Software Engineer  
 
-Here are some ideas to get you started:
+## Skills
+- Python, SQL, Java
+- FastAPI, Power BI, Tableau
+- Google Cloud, Firebase
+- Machine Learning & Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m building
+- Data analytics dashboards
+- ML-powered applications
+- Cloud-based backend systems
+
+📫 Email: alvinsaju7479@gmail.com
