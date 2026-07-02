@@ -100,35 +100,9 @@
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Activity
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvinsaju7479&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinsaju7479&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinsaju7479&layout=compact&theme=github_dark"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alvinsaju7479&theme=darkhub&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 📚 Current Focus
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alvinsaju7479&theme=github-dark)## 📚 Current Focus
 
 ✔ Data Analytics
 
