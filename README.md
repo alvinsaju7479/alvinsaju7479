@@ -31,6 +31,15 @@
 📫 Email: **alvinsaju7479@gmail.com**
 
 ---
+## 🏅 Professional Skills
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Advanced-green?style=for-the-badge&logo=mysql)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboarding-yellow?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange?style=for-the-badge&logo=tableau)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-black?style=for-the-badge&logo=apachekafka)
+![Spark](https://img.shields.io/badge/Spark-BigData-red?style=for-the-badge&logo=apachespark)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
 
 ## 🛠️ Tech Stack
 
