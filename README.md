@@ -115,7 +115,7 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinsaju7479&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinsaju7479&layout=compact&theme=github_dark"/>
 </p>
 
 ---
@@ -123,7 +123,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alvinsaju7479&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=alvinsaju7479&theme=darkhub&no-frame=true&margin-w=10"/>
 </p>
 
 ---
